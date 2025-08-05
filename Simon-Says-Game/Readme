@@ -1,2 +1,15 @@
-In this project i created a game which is known as simon says.
-For creation of this game project i used HTML, CSS and JavaScript.
+A simple Simon Says game made with HTML, CSS, and JavaScript.
+The game shows a sequence of colors, and the player needs to repeat the same sequence.
+Each round, the sequence gets longer, making it more challenging.
+
+🎯 How to Play :-
+    -> Press the any button to begin the game.
+    -> Watch the color sequence shown on the screen.
+    -> Click the colors in the same order.
+    -> If you get it right, the game adds another color to the sequence.
+    -> If you make a mistake, the game ends and you can restart.
+
+🛠️ Tech Used :-
+    -> HTML – Game structure
+    -> CSS – Styling and layout
+    -> JavaScript – Game logic and interactions
