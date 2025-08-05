@@ -1,2 +1,15 @@
-In this project i used HTML, CSS and Javascript.
-In this project i created a toggle button by which you can change the theme of webpage from light to dark or dark to light.
+This is a simple project that allows the user to switch between Light Mode and Dark Mode using HTML, CSS, and JavaScript.
+
+Features:-
+    -> Light and Dark theme switch
+    -> Smooth transition between themes
+    -> Uses HTML, CSS, and JavaScript only
+
+How to Use:-
+    -> Open the project in your browser
+    -> Click the toggle button to switch between Light and Dark mode
+
+Files:-
+    -> index.html – Structure of the webpage
+    -> style.css – Styles for light and dark themes
+    ->script.js – Handles the toggle functionality
